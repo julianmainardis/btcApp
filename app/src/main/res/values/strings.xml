@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bitcoinApp</string>
+    <string name="get_all_crypto">GET ALL CRYPTOS</string>
+    <string name="get_fiat_type">GET FIAT TYPE</string>
+    <string name="crypto_api">Crypto Api</string>
+    <string name="btc_price">BTC Price</string>
+    <string name="empty_state_error">Something gone wrong, please try again later</string>
+    <string name="search_text_button">SEARCH</string>
+</resources>

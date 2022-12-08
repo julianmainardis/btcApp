@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_margin_main_activity">60dp</dimen>
+    <dimen name="title_size">32sp</dimen>
+    <dimen name="margin_card_view">10dp</dimen>
+    <dimen name="margin_text_view_card_view">20dp</dimen>
+    <dimen name="padding_text_view_card_view">10dp</dimen>
+    <dimen name="width_search">300dp</dimen>
+</resources>
